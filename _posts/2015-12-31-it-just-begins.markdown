@@ -10,7 +10,7 @@ tags:
   - misc
 ---
 
-[![Shadow](/media/files/2015/12/31/shadow.jpg)](https://www.flickr.com/photos/lhzhang/23999442826/in/dateposted-public/)
+[![Shadow](/media/files/2015/12/31/shadow.jpg)](https://google.com)
 
 - 完成了读书计划，最爱「1984」
 - 去成都吃了火锅，陪家人去了香格里拉，在眉山顶看了 supermoon
