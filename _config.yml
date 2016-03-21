@@ -19,8 +19,8 @@ navigations:
     href: /about.html
   - title: Gallery
     class: fa fa-wordpress
-#   href: http://jili.space
+    href: http://programmemo.com
   - title: Subscribe
     class: fa fa-rss
-#   href: /atom.xml
+    href: /atom.xml
 
