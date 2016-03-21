@@ -1,8 +1,7 @@
-markdown: rdiscount
+markdown: kramdown
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
 name: "Limags"
-markdown: rdiscount
 
 author: "Limags"
 atom-baseurl: "http://limags.com"
@@ -19,7 +18,7 @@ navigations:
     class: fa fa-user
     href: /about.html
   - title: Gallery
-    class: fa fa-film
+    class: fa fa-wordpress
 #   href: http://jili.space
   - title: Subscribe
     class: fa fa-rss
