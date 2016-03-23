@@ -1,12 +1,12 @@
 ---
 title: 如何检查和打开apache中的mod_rewrite模块
-layout: post
+layout: poem
 tags:
   - apache
   - url
   - mod_rewrite
 ---
-###检查mode_rewrite模块是否已经打开
+### 检查mode_rewrite模块是否已经打开
 
 网上搜一下有很多方法可以检查你的`apache`服务器的`mod_rewrite`模块是否已经打开，这里介绍一种简便的方式。
 
@@ -15,7 +15,7 @@ tags:
 3. 如果能在`Loaded Modules`区找到关键字，说明模块已经载入，如下图，没看到的话进行下一步自己开启就好了。
 [![mod_rewrite](/media/files/2016/03/23/mod_rewrite.jpg)](https://google.com)
 
-###开启mod_rewrite模块
+### 开启mod_rewrite模块
 下面演示的是安装在windows环境中apache
 
 1. 在apache安装主目录中找到“conf”文件夹下面的"httpd.conf"文件。
