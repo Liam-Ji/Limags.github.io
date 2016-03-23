@@ -14,15 +14,15 @@ navigations:
   - title: Tags
     class: fa fa-tags
     href: /tags.html
-  - title: GitHub
-    class: fa fa-github
-    href: https://github.com/Limags	
   - title: Wordpress
     class: fa fa-wordpress
     href: http://programmemo.com
-#  - title: Subscribe
-#    class: fa fa-rss
-#    href: /atom.xml
   - title: About
     class: fa fa-user
     href: /about.html
+  - title: GitHub
+    class: fa fa-github
+    href: https://github.com/Limags	
+  - title: Subscribe
+    class: fa fa-rss
+    href: /atom.xml
