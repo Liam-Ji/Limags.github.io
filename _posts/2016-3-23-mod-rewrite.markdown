@@ -1,6 +1,6 @@
 ---
 title: 如何检查和打开apache中的mod_rewrite模块
-layout: poem
+layout: post
 tags:
   - apache
   - url
@@ -18,7 +18,7 @@ tags:
 ### 开启mod_rewrite模块
 下面演示的是安装在windows环境中apache
 
-1. 在apache安装主目录中找到“conf”文件夹下面的"httpd.conf"文件。
+1. 在apache安装主目录中找到`conf`文件夹下面的`httpd.conf`文件。
 2. 打开文件，定位到`#LoadModule rewrite_module modules/mod_rewrite.so`。
 3. 看到这句知道该怎么做了吧，删去前面的`#`，`#`注释标志。
 4. 重启`apache server`。
