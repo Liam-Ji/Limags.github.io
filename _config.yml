@@ -20,9 +20,9 @@ navigations:
   - title: Wordpress
     class: fa fa-wordpress
     href: http://programmemo.com
-  - title: Subscribe
-    class: fa fa-rss
-    href: /atom.xml
+#  - title: Subscribe
+#    class: fa fa-rss
+#    href: /atom.xml
   - title: About
     class: fa fa-user
     href: /about.html
