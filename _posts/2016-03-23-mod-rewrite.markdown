@@ -1,6 +1,6 @@
 ---
 title: 如何检查和打开apache中的mod_rewrite模块
-layout: default
+layout: post
 tags:
   - apache
   - url
