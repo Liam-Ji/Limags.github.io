@@ -1,5 +1,5 @@
 ---
-title: 使用URL重写来隐藏.php扩展名文件using .htaccess
+title: 使用URL重写来隐藏.php扩展名文件
 layout: post
 tags:
   - .htaccess
