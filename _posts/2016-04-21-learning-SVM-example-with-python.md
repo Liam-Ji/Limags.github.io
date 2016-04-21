@@ -1,5 +1,5 @@
 ---
-title: learning SVM example with Python
+title: 使用Python学习SVM分类
 layout: post
 tags:
   - SVM
