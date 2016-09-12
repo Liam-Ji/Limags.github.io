@@ -1,3 +1,10 @@
+---
+title: 机器学习面试题
+layout: post
+tags:
+  - Machine Learning
+  - Interview
+---
 ### 1. 什么是机器学习？
 
 机器学习是计算机科学的的一个分支，是能够利用已有的数据和经验自动学习和提高的系统编程。
