@@ -8,7 +8,7 @@ tags:
   - python programming tips and tricks
 ---
 source: [30 ESSENTIAL PYTHON TIPS AND TRICKS FOR PROGRAMMERS](http://www.techbeamers.com/essential-python-tips-tricks-programmers/)
-<p class="citation">{{ page.author }}</p>
+<p class="citation"> by {{ page.author }}</p>
 
  >Pythion优势到底是，大多数程序员都会提到的两个优势是间接和可读性。下面我们将要看到很多
  Python编程技巧都证明了上述优势。
